@@ -15,5 +15,5 @@ The project would heavily involve using object oriented programming and parallel
 Since this is a stand alone project, our groups contributions will be the project in its entirety. My individual contributions will be gathering all of the real world statistics needed, and figuring out the specifics of how all of that data will be used to calculate the estimation. The specifics of how the code will be divided up amongst the group would be carried out during the projects creation. 
 
 ## A URL reference to the project.
-No link currently available. 
+https://github.com/Curtis109/Solar-Calculator 
 
